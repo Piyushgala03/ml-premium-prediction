@@ -111,4 +111,5 @@ def predict(input_dict):
         input_df_scaled[cols_to_scale] = scaler.transform(input_df[cols_to_scale])
         prediction = model_rest.predict(input_df_scaled)
 
-    return prediction[0]
+    return float(prediction[0])
+
