@@ -61,5 +61,5 @@ input_dict = {
 }
 
 if st.button('Predict'):
-    predicted_val = predict(input_dict)
+    predicted_val = round(predict(input_dict))
     st.success(f'Predicted Premium: {predicted_val}')
