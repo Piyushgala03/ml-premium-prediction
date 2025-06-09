@@ -30,11 +30,11 @@ The model predicts the premium using the following input features:
 | `smoking_status`       | Whether the person is a smoker (`Smoker`, `Non-smoker`, `Occasinally`)      |
 | `employment_status`    | Employment type (`Salaried`, `Self-employed`, `Freelancer`)          |
 | `medical_history`      | Any notable past medical conditions or issues(`Diabetes`, `High blood pressure`, `No Disease`, `Diabetes & High blood pressure`, `Thyroid`, `Heart disease`, `High blood pressure & Heart disease`, `Diabetes & Thyroid`, `Diabetes & Heart disease)`                |
-| `insurance_plan`       | Type of insurance plan chosen (`Basic`, `Premium`, etc.)     |
+| `insurance_plan`       | Type of insurance plan chosen (`Bronze`, `Silver`, `Gold`)     |
 | `age`                  | Age of the applicant in years                                |
 | `number_of_dependants` | Number of dependents the person has                          |
 | `income_lakhs`         | Annual income in lakhs of INR                                |
-| `genetical_risk`       | Indicator of hereditary health risk (`Yes`, `No`)            |
+| `genetical_risk`       | Indicator of hereditary health risk ranging(0 - 5)            |
 
 ---
 
