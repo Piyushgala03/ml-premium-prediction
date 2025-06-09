@@ -110,7 +110,7 @@ This project is part of a guided learning series from [codebasics.io](https://co
 For suggestions or feedbacks:
 
 - **Name**: Piyush Gala  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/piyush-gala-)
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/piyush-gala-)
 
 ---
 
