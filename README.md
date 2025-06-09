@@ -23,13 +23,13 @@ The model predicts the premium using the following input features:
 
 | Feature Name            | Description                                                  |
 |------------------------|--------------------------------------------------------------|
-| `gender`               | Gender of the individual (`Male`, `Female`, etc.)            |
-| `region`               | Geographic region (`north`, `south`, `east`, `west`)         |
-| `marital_status`       | Marital status (`Single`, `Married`, etc.)                   |
-| `bmi_category`         | BMI classification (`Underweight`, `Normal`, `Overweight`)   |
-| `smoking_status`       | Whether the person is a smoker (`Smoker`, `Non-smoker`)      |
-| `employment_status`    | Employment type (`Salaried`, `Self-employed`, etc.)          |
-| `medical_history`      | Any notable past medical conditions or issues                |
+| `gender`               | Gender of the individual (`Male`, `Female`)            |
+| `region`               | Geographic region (`northeast`, `southeast`, `southwest`, `northwest`)         |
+| `marital_status`       | Marital status (`Unmarried`, `Married`)                   |
+| `bmi_category`         | BMI classification (`Underweight`, `Obesity`, `Normal`, `Overweight`)   |
+| `smoking_status`       | Whether the person is a smoker (`Smoker`, `Non-smoker`, `Occasinally`)      |
+| `employment_status`    | Employment type (`Salaried`, `Self-employed`, `Freelancer`)          |
+| `medical_history`      | Any notable past medical conditions or issues(`Diabetes`, `High blood pressure`, `No Disease`, `Diabetes & High blood pressure`, `Thyroid`, `Heart disease`, `High blood pressure & Heart disease`, `Diabetes & Thyroid`, `Diabetes & Heart disease)`                |
 | `insurance_plan`       | Type of insurance plan chosen (`Basic`, `Premium`, etc.)     |
 | `age`                  | Age of the applicant in years                                |
 | `number_of_dependants` | Number of dependents the person has                          |
