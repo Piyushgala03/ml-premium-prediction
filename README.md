@@ -83,7 +83,7 @@ The model predicts the premium using the following input features:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/ml-premium-prediction.git
+    git clone https://github.com/Piyushgala03/ml-premium-prediction.git
     cd ml-premium-prediction
     ```
 
