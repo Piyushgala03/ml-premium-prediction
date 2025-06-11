@@ -14,6 +14,7 @@ The goal of this app is to estimate the insurance premium amount based on person
 
 Check out the deployed app on Streamlit here:  
 🔗 [ML Premium Prediction App](https://piyush-gala-healthcare-premium-prediction.streamlit.app/)
+![Screenshot](assets/ml_premium_prediction_app_ss.png)
 
 ---
 
