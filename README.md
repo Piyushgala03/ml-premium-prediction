@@ -1,6 +1,6 @@
 # 🏥 ML Premium Prediction - Healthcare Insurance Premium Prediction App
 
-This is a **machine learning project** built to predict the **annual premium amount** for a healthcare insurance plan based on user-provided inputs. It is a **guided project by [codebasics.io](https://codebasics.io)**, with additional independent experimentation—such as model selection, evaluation, and deployment—done to enhance performance and understanding.
+This is a **machine learning project** built to predict the **annual premium amount** for a healthcare insurance plan based on user-provided inputs.
 
 ---
 
@@ -97,12 +97,6 @@ The model predicts the premium using the following input features:
     ```bash
     streamlit run app.py
     ```
-
----
-
-## 📚 Credits
-
-This project is part of a guided learning series from [codebasics.io](https://codebasics.io), which helps learners build hands-on data science and machine learning projects. Model selection and deployment were explored independently.
 
 ---
 
